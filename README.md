@@ -279,6 +279,4 @@ Este proyecto está distribuido bajo licencia MIT License. Ver el fichero [`LICE
 
 
 Pau Martín Pérez — PEC4 — UOC 2026
-=======
-# PEC4_PauMartinPerez
->>>>>>> 16c522dfac537efb577bee1c54c1010aec807f81
+
