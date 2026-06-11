@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PEC4 - Análisis de LaLiga 1995-2025
 
 Autor: Pau Martín Pérez
@@ -277,4 +278,7 @@ Recursos adicionales consultados
 Este proyecto está distribuido bajo licencia MIT License. Ver el fichero [`LICENSE`](LICENSE) para los detalles completos.
 
 
-Pau Martín Pérez — PEC4 — UOC 2025
+Pau Martín Pérez — PEC4 — UOC 2026
+=======
+# PEC4_PauMartinPerez
+>>>>>>> 16c522dfac537efb577bee1c54c1010aec807f81
