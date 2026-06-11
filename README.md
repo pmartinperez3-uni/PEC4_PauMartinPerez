@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 PEC4 - Análisis de LaLiga 1995-2025
 
 Autor: Pau Martín Pérez
